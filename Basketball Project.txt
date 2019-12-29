@@ -1,8 +1,5 @@
-#Dear Student,
-#
 #Welcome to the world of Basketball Data!
-#I'm sure you will enjoy this section of the Python Programming course.
-#
+
 #Instructions for this dataset:
 # Simply copy ALL the lines in this script by pressing 
 # CTRL+A on Windows or CMND+A on Mac and run the Jupyter cell
@@ -22,15 +19,10 @@
 # - Sdict
 # - Pdict
 #We will understand these inside the course.
-#
-#Sincerely,
-#Kirill Eremenko
-#www.superdatascience.com
 
 #Copyright: These datasets were prepared using publicly available data.
 #           However, theses scripts are subject to Copyright Laws. 
-#           If you wish to use these Python scripts outside of the Python Programming Course
-#           by Kirill Eremenko, you may do so by referencing www.superdatascience.com in your work.
+
 
 #Comments:
 #Seasons are labeled based on the first year in the season
